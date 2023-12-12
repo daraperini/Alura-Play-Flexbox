@@ -7,7 +7,7 @@ To access the page's final result, click [here](https://alura-play-flexbox.verce
 ## Used tools:
 
 * CSS
-* Flex Box
+* Flexbox
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
@@ -22,4 +22,4 @@ Para acessar o resultado final da página, clique [aqui](https://alura-play-flex
 ## Ferramentas utilizadas:
 
 * CSS
-* Flex Box
+* Flexbox
